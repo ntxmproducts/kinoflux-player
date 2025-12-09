@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.ntxm.org/releases/KinoFlux/video-tools-dekstop.png" alt="Kinoflix Logo" width="120" />
+  <img src="assets/kinoflix.png" alt="Kinoflix Logo" width="120" />
   <h1>Kinoflix Player</h1>
   <p>
     <strong>The Modern, Minimalist Video Player for Windows.</strong>
