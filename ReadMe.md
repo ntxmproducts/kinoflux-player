@@ -37,10 +37,10 @@ Whether you are watching high-definition movies or personal clips, Kinoflix puts
 <div id="screenshots" align="center">
   <h2>📸 Screenshots</h2>
   <br>
-  <img src="https://files.ntxm.org/releases/KinoFlux/KinoFlixPlayerScreen.png" alt="Kinoflix Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/KinoFlixPlayerScreen.png" alt="Kinoflix Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Clean playback interface focused on the content.</em></p>
   <br>
-  <img src="https://files.ntxm.org/releases/KinoFlux/KinoFlixHomeScreen.png" alt="Kinoflix Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/KinoFlixHomeScreen.png" alt="Kinoflix Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Simple "Open Video" welcome screen.</em></p>
 </div>
 
