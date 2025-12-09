@@ -1,1 +1,4 @@
 Images Here
+assets/kinoflix.png
+assets/KinoFlixHomeScreen.png
+assets/KinoFlixPlayerScreen.png
