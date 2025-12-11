@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/kinoflix.png" alt="Kinoflix Logo" width="120" />
-  <h1>Kinoflix Player</h1>
+  <img src="assets/kinoflux.png" alt="kinoflux Logo" width="120" />
+  <h1>kinoflux Player</h1>
   <p>
     <strong>The Modern, Minimalist Video Player for Windows.</strong>
   </p>
 
   <p>
-    <a href="https://github.com/ntxmproducts/kinoflix-player/releases/tag/kinoflix-video-player-software">
+    <a href="https://github.com/ntxmproducts/kinoflux-player/releases/tag/kinoflux-video-player-software">
       <img src="https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows" alt="Download for Windows" />
     </a>
   </p>
@@ -20,11 +20,11 @@
 
 ---
 
-## 🎥 About Kinoflix
+## 🎥 About kinoflux
 
-**Kinoflix** is designed for one thing: the viewing experience. We stripped away the cluttered menus and complex settings found in traditional video players to create a lightweight, distraction-free environment for your media.
+**kinoflux** is designed for one thing: the viewing experience. We stripped away the cluttered menus and complex settings found in traditional video players to create a lightweight, distraction-free environment for your media.
 
-Whether you are watching high-definition movies or personal clips, Kinoflix puts the content center stage with a sleek dark-mode interface that looks great on Windows 10 and 11.
+Whether you are watching high-definition movies or personal clips, kinoflux puts the content center stage with a sleek dark-mode interface that looks great on Windows 10 and 11.
 
 ## ✨ Key Features
 
@@ -37,25 +37,25 @@ Whether you are watching high-definition movies or personal clips, Kinoflix puts
 <div id="screenshots" align="center">
   <h2>📸 Screenshots</h2>
   <br>
-  <img src="assets/KinoFlixPlayerScreen.png" alt="Kinoflix Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/kinofluxPlayerScreen.png" alt="kinoflux Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Clean playback interface focused on the content.</em></p>
   <br>
-  <img src="assets/KinoFlixHomeScreen.png" alt="Kinoflix Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/kinofluxHomeScreen.png" alt="kinoflux Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Simple "Open Video" welcome screen.</em></p>
 </div>
 
 ## ⬇️ Installation
 
-Kinoflix is built exclusively for Windows.
+kinoflux is built exclusively for Windows.
 
-1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflix-player/releases/tag/kinoflix-video-player-software)** (`KinoflixPlayer-Setup.exe`).
+1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflux-player/releases/tag/kinoflux-video-player-software)** (`kinofluxPlayer-Setup.exe`).
 2.  Run the installer.
-3.  Launch Kinoflix from your desktop or start menu.
+3.  Launch kinoflux from your desktop or start menu.
 4.  Drag and drop a video or click the folder icon to start watching.
 
 ## 🛡️ Privacy & Safety
 
-Kinoflix runs locally on your machine. It does not track your viewing habits or upload your files to the cloud.
+kinoflux runs locally on your machine. It does not track your viewing habits or upload your files to the cloud.
 
 ---
 
