@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/ntxmproducts/kinoflux-player/releases/tag/kinoflux-video-player-software">
+    <a href="https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player">
       <img src="https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows" alt="Download for Windows" />
     </a>
   </p>
