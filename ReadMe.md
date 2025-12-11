@@ -37,10 +37,10 @@ Whether you are watching high-definition movies or personal clips, kinoflux puts
 <div id="screenshots" align="center">
   <h2>📸 Screenshots</h2>
   <br>
-  <img src="assets/kinofluxPlayerScreen.png" alt="kinoflux Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/KinoFluxPlayerScreen.png" alt="kinoflux Playback Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Clean playback interface focused on the content.</em></p>
   <br>
-  <img src="assets/kinofluxHomeScreen.png" alt="kinoflux Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
+  <img src="assets/KinoFluxHomeScreen.png" alt="kinoflux Home Screen" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"/>
   <p><em>Simple "Open Video" welcome screen.</em></p>
 </div>
 
