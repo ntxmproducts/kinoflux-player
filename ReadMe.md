@@ -48,7 +48,7 @@ Whether you are watching high-definition movies or personal clips, kinoflux puts
 
 kinoflux is built exclusively for Windows.
 
-1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflux-player/releases/tag/kinoflux-video-player-software)** (`kinofluxPlayer-Setup.exe`).
+1.  **[Download the Setup File](https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player)** (`kinofluxPlayer-Setup.exe`).
 2.  Run the installer.
 3.  Launch kinoflux from your desktop or start menu.
 4.  Drag and drop a video or click the folder icon to start watching.
