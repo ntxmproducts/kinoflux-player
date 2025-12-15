@@ -5,12 +5,12 @@
     <strong>The Modern, Minimalist Video Player for Windows.</strong>
   </p>
 
-  <p>
-    <a href="https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player">
-      <img src="https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows" alt="Download for Windows" />
-    </a>
-  </p>
   
+  [![Built by NTXM](https://img.shields.io/badge/Built%20by-NTXM-black?style=for-the-badge)](https://ntxm.org)
+  [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://ntxm.org/products/fluxgrab)
+  [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)]()
+  [![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-blue?style=for-the-badge&logo=windows)(https://github.com/ntxmproducts/kinoflux-player/releases/tag/KinoFlux-video-player)
+
   <p>
     <a href="#features">Features</a> •
     <a href="#screenshots">Screenshots</a> •
